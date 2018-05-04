@@ -12,6 +12,14 @@
 *
 * ======================================================= */
 
+.input-box{
+  min-width: 30%;
+  margin: 0 0 10px 0;
+  height: 50px;
+  border-radius: 5px;
+  border: 1px solid grey;
+  padding: 1%;
+}
 
 
 body {
@@ -382,7 +390,7 @@ figure {
   z-index: 2;
   font-size: 22px;
   text-transform: uppercase;
-  margin-top: 35px;
+  margin-top: 5px;
   font-weight: 700;
   float: left;
 }
@@ -408,7 +416,7 @@ figure {
   z-index: 2;
   display: block;
   float: right;
-  margin-top: 15px;
+  margin-top: 0px;
 }
 #fh5co-menu-wrap .sf-menu a {
   padding: 1em .75em;

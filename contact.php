@@ -29,9 +29,9 @@
 					<div class="row">
 						<div class="col-md-6">
 							<h3 class="section-title">Our Address</h3>
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							
 							<ul class="contact-info">
-								<li><i class="icon-location-pin"></i>198 West 21th Street, Suite 721 New York NY 10016</li>
+								<li><i class="icon-location-pin"></i>No 13 Baale Street, Agboju Amuwo, Off Badagry Express way, Lagos, Nigeria</li>
 								<li><i class="icon-phone2"></i>08028642763</li>
 								<li><i class="icon-mail"></i><a href="#">info@yoursite.com</a></li>
 							</ul>
@@ -65,7 +65,7 @@
 			</div>
 		</div>
 		<!-- END fh5co-contact -->
-		<div id="map" class="fh5co-map"></div>
+		<!--div id="map" class="fh5co-map"></div-->
 		<!-- END map -->
 
 		

@@ -38,6 +38,7 @@
 							<li><a href="gallery.php">Gallery</a></li>
 							<li><a href="about.php">About</a></li>
 							<li><a href="contact.php">Contact</a></li>
+							<li><a href="admin.php">Login</a></li>
 						</ul>
 					</nav>
 				</div>
